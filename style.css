@@ -10,3 +10,9 @@ body {
 .content {
     padding: 20px;
 }
+
+.center-icon {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
